@@ -28,7 +28,7 @@ pd.set_option('display.max_colwidth', None)
 
 #This is the file that will be parsed
 #df = pd.read_csv(read_filename())
-df = pd.read_csv('anchore_security_ubi8.csv')
+df = pd.read_csv('FILENAME here')
 
 #base_url = 'https://access.redhat.com/security/cve/'
 base_url = 'https://nvd.nist.gov/vuln/detail/'
